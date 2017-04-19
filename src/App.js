@@ -13,6 +13,7 @@ class App extends Component {
         <p className="App-intro">
           FUCK YOU
         </p>
+        <img src="https://img.fireden.net/v/image/1448/14/1448143092250.png"></img>
       </div>
     );
   }
