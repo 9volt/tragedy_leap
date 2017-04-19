@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
+import leather_man from './leather_man.png';
 import './App.css';
 
 class App extends Component {
@@ -13,7 +14,7 @@ class App extends Component {
         <p className="App-intro">
           FUCK YOU
         </p>
-        <img src="https://img.fireden.net/v/image/1448/14/1448143092250.png"></img>
+        <img src={leather_man}></img>
       </div>
     );
   }
